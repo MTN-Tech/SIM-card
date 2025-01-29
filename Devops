@@ -2,3 +2,6 @@ aws
 git
 nexus
 maven
+Sonarqube
+tomcat
+terraform
