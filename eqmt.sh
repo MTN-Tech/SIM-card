@@ -6,3 +6,6 @@ Nail
 meter
 bar
 zinc
+copper
+magnesium
+Aluminum
