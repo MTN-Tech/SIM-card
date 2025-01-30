@@ -1,1 +1,4 @@
-This file is used to monitor our servers
+This file is used to monitor our servers.
+grafana
+prometheus 
+NewRelic
